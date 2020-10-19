@@ -19,6 +19,6 @@ This project's youtube walkthrough is [here](https://youtu.be/GnidC9N0OqQ)
 
 1. Install nodemon using command `npm install -g nodemon`
 
-2. If any error occured, use sudo before npm
+2. If any error occured, use sudo before npm.
 
-3. Run `npm run dev` to start the development server
+3. Run `npm run dev` to start the development server.
